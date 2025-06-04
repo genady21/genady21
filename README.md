@@ -32,7 +32,6 @@
 
 ## 📫 Связаться со мной
 - [LinkedIn](https://www.linkedin.com/in/valery-hehenia/)  
-- [GitHub](https://github.com/genady21)  
 - Telegram: [@valery_hehenia](https://t.me/valery_hehenia)
 - Email: wazgenby@gmail.com
 
