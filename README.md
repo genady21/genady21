@@ -12,3 +12,17 @@
 - В свободное время создаю небольшие проекты на Unity — это моё хобби и поле для экспериментов.  
 - Сейчас активно обучаюсь автоматизации тестирования на Python.  
 - Ищу стажировку или первую позицию в QA, чтобы развиваться в команде и прокачивать навыки.
+
+## 🧰 Инструменты и технологии
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![DevTools](https://img.shields.io/badge/DevTools-000000?style=for-the-badge&logo=googlechrome&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![Fiddler](https://img.shields.io/badge/Fiddler-1A237E?style=for-the-badge&logo=fiddler&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
