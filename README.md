@@ -35,3 +35,10 @@
 - [GitHub](https://github.com/genady21)  
 - Telegram: [@valery_hehenia]
 - Email: wazgenby@gmail.com
+
+
+<!-- Общая статистика -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+<!-- Основные языки -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
