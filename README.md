@@ -5,6 +5,9 @@
 <h1 align="center">Привет! 👋 Меня зовут Valery Hehenia</h1>
 <h3 align="center">🔍 Junior QA Engineer, который ловит баги днём и изучает Unity по вечерам 🎮</h3>
 
+## 📄 Резюме (CV)
+[Скачать моё резюме (PDF)](https://drive.google.com/file/d/1QfpT-CYpT7eOXtkxcMsQTdnvaJKY-q5K/view?usp=drive_link)
+
 ## 🙋‍♂️ Немного обо мне
 
 - Я начинающий QA Engineer с фокусом на ручное тестирование и вниманием к деталям.  
@@ -26,3 +29,9 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 📫 Связаться со мной
+- [LinkedIn](https://www.linkedin.com/in/valery-hehenia/)  
+- [GitHub](https://github.com/genady21)  
+- Telegram: [@valery_hehenia]
+- Email: wazgenby@gmail.com
