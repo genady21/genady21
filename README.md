@@ -6,7 +6,7 @@
 <h3 align="center">🔍 Junior QA Engineer, который ловит баги днём и изучает Unity по вечерам 🎮</h3>
 
 ## 📄 Резюме (CV)
-[Скачать моё резюме (PDF)](https://drive.google.com/file/d/1VmqfPdXr8S4UtN8qte1h2i_ZRlNvJ8OB/view?usp=sharing)
+[Скачать моё резюме (PDF)](https://drive.google.com/file/d/123lqFwCiPZBTIPxuP4bT9DGhvktZx8Hx/view?usp=sharing)
 
 ## 🙋‍♂️ Немного обо мне
 
