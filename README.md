@@ -6,15 +6,12 @@
 <h3 align="center">🔍 Junior QA Engineer, который ловит баги днём и изучает Unity по вечерам 🎮</h3>
 
 ## 📄 Резюме (CV)
-[Скачать моё резюме (PDF)](https://drive.google.com/file/d/123lqFwCiPZBTIPxuP4bT9DGhvktZx8Hx/view?usp=sharing)
+[Скачать моё резюме (PDF)](https://drive.google.com/file/d/1d26Sk-XmczmNrpkMbu6dh7aF2BQFCdoN/view?usp=drive_link)
 
 ## 🙋‍♂️ Немного обо мне
 
 - Я начинающий QA Engineer с фокусом на ручное тестирование и вниманием к деталям.  
-- Ранее работал дальнобойщиком по Европе, но решил сменить курс в IT.  
 - В свободное время создаю небольшие проекты на Unity — это моё хобби и поле для экспериментов.  
-- Сейчас активно обучаюсь автоматизации тестирования на Python.  
-- Ищу первую позицию в QA, чтобы развиваться в команде и прокачивать навыки.
 
 ## 🧰 Инструменты и технологии
 
@@ -29,6 +26,9 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Qase](https://img.shields.io/badge/Qase-6E3DFF?style=for-the-badge&logo=qase&logoColor=white)
+
 
 ## 📫 Связаться со мной
 - [LinkedIn](https://www.linkedin.com/in/valery-hehenia/)  
