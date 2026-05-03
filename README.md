@@ -1,17 +1,22 @@
 
 
-# Привет! 👋 Меня зовут Valery Hehenia
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Valery+Hehenia;Junior+QA+Engineer+%7C+Unity+Hobbyist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Valery+Hehenia;QA+Engineer+%7C+Game+QA+%7C+Mobile+Testing" alt="Typing SVG" />
+</p>
 
-### 🔍 Junior QA Engineer, который ловит баги днём и изучает Unity по вечерам 🎮
+
+<h3 align="center">🎮 QA Engineer с фокусом на Game QA и mobile testing</h3>
+
 
 ## 📄 Резюме (CV)
+[Скачать моё резюме (PDF)](https://drive.google.com/file/d/1iXwgRbxjOHgf54SYFV6SAxOKLjwJbUsA/view?usp=drive_link)
 
-[Скачать моё резюме (PDF)](https://drive.google.com/file/d/1d26Sk-XmczmNrpkMbu6dh7aF2BQFCdoN/view?usp=drive_link)
 
 ## 🙋‍♂️ Немного обо мне
 
-- Я начинающий QA Engineer с фокусом на ручное тестирование и вниманием к деталям.  
-- В свободное время создаю небольшие проекты на Unity — это моё хобби и поле для экспериментов.
+- Работаю с мобильными играми на Android/iOS. 
+- Изучаю QA automation и развиваю технические навыки, чтобы двигаться от ручного тестирования к более системному обеспечению качества.  
 
 ## 🧰 Инструменты и технологии
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
@@ -32,11 +37,11 @@
 ![Qase](https://img.shields.io/badge/Qase-6E3DFF?style=for-the-badge&logo=qase&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 📫 Связаться со мной
+## 🕹️ Pet-проекты
+- [Where is My Brain](https://play.google.com/store/apps/details?id=com.Aurteho.WhereIsMyBrain2&utm_source=emea_Med) — тестирование Android-игры с физическими головоломками.  
+- [Car Gun: Weapon Race](https://play.google.com/store/apps/details?id=com.Aurteho.CarRunner&utm_source=emea_Med) — тестирование Android-игры с механиками стрельбы, прогрессии и развития оружия.  
 
+
+## 📫 Связаться со мной
 - [LinkedIn](https://www.linkedin.com/in/valery-hehenia/)  
 - Telegram: [@valery_hehenia](https://t.me/valery_hehenia)
-- Email: [valery.hehenia.96@gmail.com](mailto:valery.hehenia.96@gmail.com)
-
-GitHub stats
-Top Languages
